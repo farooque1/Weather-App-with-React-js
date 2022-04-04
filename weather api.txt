@@ -1,0 +1,16 @@
+7fdd664c78964ad5a078923e413b981e
+
+
+http://api.openweathermap.org/geo/1.0/
+direct?q=London&limit=5&appid=7fdd664c78964ad5a078923e413b981e
+
+api.openweathermap.org/data/2.5/weather?
+q=mumbai&appid=7fdd664c78964ad5a078923e413b981e
+
+https://api.openweathermap.org/data/2.5/weather?q=delhi&appid=7fdd664c78964ad5a078923e413b981e
+
+http://api.openweathermap.org/data/2.5/
+forecast?id=524901&appid={7fdd664c78964ad5a078923e413b981e}
+
+
+
